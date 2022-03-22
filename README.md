@@ -1,4 +1,4 @@
-# Museum Of Candy ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+# Museum Of NATURE ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 ## Built to practice BootStrap
 
@@ -6,7 +6,7 @@
 https://mibrahim234.github.io/Candy-Project/
 
 ## Description 
-Candy Project is an app made to practice bootstrap. The app is responsive and contains beautiful images of candy. This app was a tutorial made by  
+Nature Project is an app made to practice bootstrap. The app is responsive and contains beautiful images of nature. This app was a tutorial made by  
   ![Candy Project Screenshot](assets/ReactM.PNG)
 
 

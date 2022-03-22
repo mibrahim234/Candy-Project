@@ -3,11 +3,11 @@
 ## Built to practice BootStrap
 
 ## Deployed Site 
-https://mibrahim234.github.io/Candy-Project/
+https://mibrahim234.github.io/Nature-BootStrap-Project/
 
 ## Description 
-Nature Project is an app made to practice bootstrap. The app is responsive and contains beautiful images of nature. This app was a tutorial made by  
-  ![Candy Project Screenshot](assets/ReactM.PNG)
+Nature Project is an app made to practice bootstrap. The app is responsive and contains beautiful images of nature. Enjoy the pictures that were from unsplash.com.
+  ![NATURE Project Screenshot](imgs/naturereadme.PNG)
 
 
 
@@ -16,6 +16,7 @@ Nature Project is an app made to practice bootstrap. The app is responsive and c
 * [Installation](#installation)
 * [Usage](#usage)
 * [Technologies](#technologies)
+* [Credit](#credit)
 * [License](#license)
 * [Questions](#questions)
 * [Website](#website)
@@ -23,7 +24,7 @@ Nature Project is an app made to practice bootstrap. The app is responsive and c
 
 
 ## Installation
-In order to install this project, you must login to GitHub and go to https://github.com/mibrahim234/React-Quiz-App. Once there you will click on the green button that says clone or download. You will be given choices on how to download: using the ssh/html key or downloading the zip file.
+In order to install this project, you must login to GitHub and go to https://github.com/mibrahim234/Nature-BootStrap-Project. Once there you will click on the green button that says clone or download. You will be given choices on how to download: using the ssh/html key or downloading the zip file.
 
 Using SSH/HTML Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. Once you have cloned the git team-generator repo, cd into the repo and type "open . for mac" Or "code . for windows" to open the folder which contains all files used for the website.
 
@@ -33,17 +34,16 @@ Using Download ZIP: Click on Download Zip. Locate the file and double click it t
 
 ## Usage 
 
-- To use the application locally, enter npm start in the root of the repo to initialize the app. <br>
-Once the app has been initialized, react will open it up in the browser.
-
+- To use the application locally, go to the html file, right click & open in default browser to initialize the app. 
 ---
 
 ## Technologies
-- [React](https://reactjs.org/)
-- [Express](https://expressjs.com/)
-- [Heroku](https://heroku.com/)
+- [BootStrap](https://getbootstrap.com/)
+- [JQuery](https://jquery.com/)
+- [GitHub](https://github.com/)
 
-
+## Credit
+Credit to Colt Steele On Udemy for going over bootstrap and doing a step by step on his Candy Project.
 
 ## License
 Copyright (c) [2022]
@@ -58,7 +58,7 @@ Read more about it at https://opensource.org/licenses/MIT.
 - mohamm1417@gmail.com
 
 ## Website
-[Link to the GIT repository](https://github.com/mibrahim234/React-Quiz-App)
+[Link to the GIT repository](https://github.com/mibrahim234/Nature-BootStrap-Project)
 
 
 ## Contribution

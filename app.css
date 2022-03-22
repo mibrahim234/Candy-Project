@@ -1,16 +1,16 @@
 body {
-    background: #72A0C1;
+    background: #002244;
     font-family: "Nunito", sans-serif;
 }
 
 .blurb h2 {
-    color: #EA1C2C;
+    color: white;
     font-weight: 100;
     font-size: 2.5rem;
  }
  
  .blurb p {
-     color: #f498b8;
+     color: white;
      font-weight: 100;
      font-size: 1.125rem;
      line-height: 2;
@@ -59,6 +59,9 @@ body {
     transition: background 500ms;
 }
 
+footer {
+    color: white;
+}
 /* Responsive when changing browser size */
 @media (max-width:1200px) {
     #headingGroup h1 {
